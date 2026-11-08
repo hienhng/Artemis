@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Artemis orbital monogram</title>
+  <desc id="desc">An open Oldenburg-inspired A whose sole crossbar is a centered golden orbit, with a detached sun and four open seal corners.</desc>
+  <rect width="48" height="48" rx="4" fill="#842f37" />
+  <path d="M16 4.5 L6 4.5 Q4.5 4.5 4.5 6 L4.5 16 M32 4.5 L42 4.5 Q43.5 4.5 43.5 6 L43.5 16 M43.5 32 L43.5 42 Q43.5 43.5 42 43.5 L32 43.5 M16 43.5 L6 43.5 Q4.5 43.5 4.5 42 L4.5 32" fill="none" stroke="#e5c9a5" stroke-width="0.75" stroke-linecap="round" />
+  <ellipse cx="24" cy="24" rx="16.5" ry="4.5" transform="rotate(-12 24 24)" fill="none" stroke="#e5c9a5" stroke-width="1.8" />
+  <path d="M177 8 29 0Q-49 0 -49 63Q-49 104 16 154Q132 246 232 440L580 1140L704 1403Q748 1500 779.5 1537.5Q811 1575 860.0 1575.0Q909 1575 942.5 1542.0Q976 1509 1023 1408L1242 940Q1523 382 1541 349L1578 282Q1622 205 1639.0 189.0Q1656 173 1674 162Q1753 115 1753 78Q1753 0 1675 0L1524 7L1321 0Q1270 0 1241.0 20.0Q1212 40 1212 80Q1212 162 1394 162Q1405 162 1416.0 162.0Q1427 162 1438 163Q1411 202 1382 262L1280 470L932 1201Q905 1260 889.5 1290Q874 1320 861.5 1320Q849 1320 836.5 1298.5Q824 1277 804 1232L436 481L289 157H319Q417 157 461.0 139.5Q505 122 505 73Q505 -1 403 -1Z" transform="matrix(0.01498335 0 0 -0.01498335 11.23418424 35.79189789)" fill="#fff6e7" />
+  <circle cx="24.1" cy="12.5" r="3.1" fill="#842f37" />
+  <circle cx="24.1" cy="11.8" r="1.5" fill="#e5c9a5" />
+  <path d="M8.80249 25.75238 C11.38426 27.41778 17.37020 28.50000 24.00000 28.50000 C30.62980 28.50000 36.61574 27.41778 39.19751 25.75238" transform="rotate(-12 24 24)" fill="none" stroke="#842f37" stroke-width="3.8" stroke-linecap="butt" />
+  <path d="M7.50000 24.00000 C7.50000 26.48528 14.88730 28.50000 24.00000 28.50000 C33.11270 28.50000 40.50000 26.48528 40.50000 24.00000" transform="rotate(-12 24 24)" fill="none" stroke="#e5c9a5" stroke-width="1.8" stroke-linecap="round" />
+</svg>
